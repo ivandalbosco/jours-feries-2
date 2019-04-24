@@ -6,7 +6,7 @@ install: true
 
 addons:
   sonarcloud:
-    organization: "sonarcloud"
+    organization: "ivandalbosco-github"
     token:
       secure: "7248ac8d3711f080dd66fa2426e71590aacebdcc"
 
@@ -14,8 +14,8 @@ jdk:
   - oraclejdk8
 
 script:
-  # JaCoCo is used to have code coverage, the agent has to be activated
-  - mvn clean org.jacoco:jacoco-maven-plugin:prepare-agent org.jacoco:jacoco-maven-plugin:report package sonar:sonar
+  # - mvn clean org.jacoco:jacoco-maven-plugin:prepare-agent org.jacoco:jacoco-maven-plugin:report package sonar:sonar
+  - mvn clean package sonar:sonar
 
 cache:
   directories:
