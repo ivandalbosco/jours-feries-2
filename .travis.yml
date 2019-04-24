@@ -1,7 +1,4 @@
 language: java
-# Attention, lu ceci chez Travis : Container-based infrastructure has been fully deprecated. Please remove
-# any "sudo: false" keys in your .travis.yml file to use the fully-virtualized Linux infrastructure.
-#sudo: false
 install: true
 
 addons:
