@@ -7,8 +7,6 @@ install: true
 addons:
   sonarcloud:
     organization: "ivandalbosco-github"
-    token:
-      secure: "7248ac8d3711f080dd66fa2426e71590aacebdcc"
 
 jdk:
   - oraclejdk8
