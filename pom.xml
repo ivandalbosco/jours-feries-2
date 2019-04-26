@@ -13,7 +13,7 @@
     </parent>
 
     <groupId>ch.ge.cti.ct</groupId>
-    <artifactId>jours-feries</artifactId>
+    <artifactId>jours-feries-IVAN</artifactId>
     <version>1.0.5-SNAPSHOT</version>
 
     <description>Application fournissant les jours fériés à l'État de Genève</description>
