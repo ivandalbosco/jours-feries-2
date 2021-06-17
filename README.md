@@ -2,6 +2,8 @@
 
 La bibliothèque jours-feries fournit la liste des jours fériés et des jours fermés à l'État de Genève.
 
+[![Build Status](https://travis-ci.com/ivandalbosco/jours-feries.svg?branch=master)](https://travis-ci.com/ivandalbosco/jours-feries)
+
 # 2. Description
 
 La classe ``JoursFeriesService`` permet de connaître les jours fériés et fermés à l'État de Genève.
