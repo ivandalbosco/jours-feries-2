@@ -1,8 +1,8 @@
-# 1. Propos Ivan AAA BBB
+# 1. Propos Ivan
 
 La bibliothèque jours-feries fournit la liste des jours fériés et des jours fermés à l'État de Genève.
 
-[![Build Status](https://travis-ci.com/ivandalbosco/jours-feries.svg?branch=master)](https://travis-ci.com/ivandalbosco/jours-feries)
+[![Build Status](https://travis-ci.com/ivandalbosco/jours-feries-2.svg?branch=master)](https://travis-ci.com/ivandalbosco/jours-feries-2)
 
 # 2. Description
 
