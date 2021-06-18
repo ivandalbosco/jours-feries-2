@@ -10,7 +10,7 @@ Analyse SonarCloud :
 [![Coverage](https://sonarcloud.io/api/project_badges/measure?project=ch.ge.cti.ct%3Ajours-feries-IVAN&metric=coverage)](https://sonarcloud.io/dashboard?id=ch.ge.cti.ct%3Ajours-feries-IVAN)
 [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=ch.ge.cti.ct%3Ajours-feries-IVAN&metric=alert_status)](https://sonarcloud.io/dashboard?id=ch.ge.cti.ct%3Ajours-feries-IVAN)
 
-# 1. Propos AAA BBB
+# 1. Propos
 
 La bibliothèque jours-feries fournit la liste des jours fériés et des jours fermés à l'État de Genève.
 
