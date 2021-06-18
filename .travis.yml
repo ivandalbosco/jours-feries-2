@@ -4,8 +4,7 @@ install: true
 addons:
   sonarcloud:
     organization: "ivandalbosco-github"
-    token:
-      secure: b2dfe320e162451cba345d5d8698a941f41ee112
+    token: b2dfe320e162451cba345d5d8698a941f41ee112
 
 jdk:
   - openjdk8
@@ -18,4 +17,3 @@ cache:
   directories:
     - '$HOME/.m2/repository'
     - '$HOME/.sonar/cache'
-
