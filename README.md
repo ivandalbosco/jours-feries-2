@@ -1,10 +1,18 @@
-# 1. Propos AAA BBB
-
-La bibliothèque jours-feries fournit la liste des jours fériés et des jours fermés à l'État de Genève.
+Build Travis :
 
 [![Build Status](https://travis-ci.com/ivandalbosco/jours-feries-2.svg?branch=master)](https://travis-ci.com/ivandalbosco/jours-feries-2)
 
-[![Quality gate](https://sonarcloud.io/api/project_badges/quality_gate?project=ch.ge.cti.ct%3Ajours-feries-IVAN)](https://sonarcloud.io/dashboard?id=ch.ge.cti.ct%3Ajours-feries-IVAN)
+Analyse SonarCloud :
+
+[![Bugs](https://sonarcloud.io/api/project_badges/measure?project=ch.ge.cti.ct%3Ajours-feries-IVAN&metric=bugs)](https://sonarcloud.io/dashboard?id=ch.ge.cti.ct%3Ajours-feries-IVAN)
+[![Code Smells](https://sonarcloud.io/api/project_badges/measure?project=ch.ge.cti.ct%3Ajours-feries-IVAN&metric=code_smells)](https://sonarcloud.io/dashboard?id=ch.ge.cti.ct%3Ajours-feries-IVAN)
+[![Duplicated Lines (%)](https://sonarcloud.io/api/project_badges/measure?project=ch.ge.cti.ct%3Ajours-feries-IVAN&metric=duplicated_lines_density)](https://sonarcloud.io/dashboard?id=ch.ge.cti.ct%3Ajours-feries-IVAN)
+[![Coverage](https://sonarcloud.io/api/project_badges/measure?project=ch.ge.cti.ct%3Ajours-feries-IVAN&metric=coverage)](https://sonarcloud.io/dashboard?id=ch.ge.cti.ct%3Ajours-feries-IVAN)
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=ch.ge.cti.ct%3Ajours-feries-IVAN&metric=alert_status)](https://sonarcloud.io/dashboard?id=ch.ge.cti.ct%3Ajours-feries-IVAN)
+
+# 1. Propos AAA BBB
+
+La bibliothèque jours-feries fournit la liste des jours fériés et des jours fermés à l'État de Genève.
 
 # 2. Description
 
