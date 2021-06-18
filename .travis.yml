@@ -4,7 +4,7 @@ install: true
 addons:
   sonarcloud:
     organization: "ivandalbosco-github"
-    token: b2dfe320e162451cba345d5d8698a941f41ee112
+    token: $SONAR_TOKEN
 
 jdk:
   - openjdk11
