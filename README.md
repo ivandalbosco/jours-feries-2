@@ -10,6 +10,17 @@ Analyse SonarCloud :
 [![Coverage](https://sonarcloud.io/api/project_badges/measure?project=ch.ge.cti.ct%3Ajours-feries-IVAN&metric=coverage)](https://sonarcloud.io/dashboard?id=ch.ge.cti.ct%3Ajours-feries-IVAN)
 [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=ch.ge.cti.ct%3Ajours-feries-IVAN&metric=alert_status)](https://sonarcloud.io/dashboard?id=ch.ge.cti.ct%3Ajours-feries-IVAN)
 
+License :
+
+basique :
+[![License: AGPL v3](https://img.shields.io/badge/License-AGPL%20v3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)
+
+relatif :
+[![License: AGPL v3](https://img.shields.io/badge/License-AGPL%20v3-blue.svg)](./LICENCE.txt)
+
+absolu :
+[![License: AGPL v3](https://img.shields.io/badge/License-AGPL%20v3-blue.svg)](https://github.com/ivandalbosco/jours-feries-2/blob/master/LICENSE.txt)
+
 # 1. Propos
 
 La bibliothèque jours-feries fournit la liste des jours fériés et des jours fermés à l'État de Genève. 
