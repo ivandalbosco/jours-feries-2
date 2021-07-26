@@ -21,4 +21,6 @@ jobs:
         distribution: 'adopt'
     - name: Build with Maven
       run: mvn -B verify sonar:sonar -Dsonar.projectKey=jours-feries-2 -Dsonar.host.url=https://sonarcloud.io -Dsonar.organization=etat-de-geneve-github -Dsonar.login=7c505bdec7777554d334e05bee7e4b8c0825d6d1
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
