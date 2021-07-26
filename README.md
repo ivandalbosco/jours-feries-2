@@ -1,6 +1,6 @@
 Build Action GitHub :
 
-[![build with Maven](https://github.com/ivandalbosco/jours-feries-2/actions/workflows/maven.yml/badge.svg)](https://github.com/ivandalbosco/jours-feries-2/actions/workflows/maven.yml)
+[![Build with GitHub](https://github.com/ivandalbosco/jours-feries-2/actions/workflows/maven.yml/badge.svg)](https://github.com/ivandalbosco/jours-feries-2/actions/workflows/maven.yml)
 
 Build Travis :
 
