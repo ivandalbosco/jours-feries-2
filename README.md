@@ -1,3 +1,6 @@
+Build Action GitHub :
+[![Java CI with Maven](https://github.com/ivandalbosco/jours-feries-2/actions/workflows/maven.yml/badge.svg)](https://github.com/ivandalbosco/jours-feries-2/actions/workflows/maven.yml)
+
 Build Travis :
 
 [![Build Status](https://travis-ci.com/ivandalbosco/jours-feries-2.svg?branch=master)](https://travis-ci.com/ivandalbosco/jours-feries-2)
