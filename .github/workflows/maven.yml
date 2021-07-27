@@ -19,14 +19,8 @@ jobs:
       with:
         java-version: '11'
         distribution: 'adopt'
-    - name: Build
-      run: mvn -B verify
-    - name: ls
-      run: ls -l target
-    - name: cat
-      run: cat target/jacoco.exec
     - name: Build and analyze with Sonar
-      run: mvn -B verify sonar:sonar -Dsonar.projectKey=ch.ge.cti.ct:jours-feries -Dsonar.host.url=https://sonarcloud.io -Dsonar.organization=etat-de-geneve-github -DDDsonar.login=$SONAR_TOKEN
+      run: mvn -B verify sonar:sonar -Dsonar.projectKey=ch.ge.cti.ct:jours-feries -Dsonar.host.url=https://sonarcloud.io -Dsonar.organization=etat-de-geneve-github
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         SONAR_TOKEN: ${{ secrets.SONAR_TOKEN }}
